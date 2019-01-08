@@ -1,2 +1,5 @@
 # LAB3_2
-project for counting  employee  based on hash-table.
+project for counting missing  employee  based on hash-table.
+Collisions solving whith chains method
+
+
